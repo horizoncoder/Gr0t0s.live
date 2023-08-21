@@ -1,0 +1,8 @@
+HH     HH   AAA   PPPPPPP   PPPPPPP   YY    YY       BBBBBBB    IIIIIII  RRRRRRRR  TTTTTTTTTT  H     H  DDDDD         AAA     YY    YY    GGGGGG   rrrr   000000     tttttttt  000000  sssss     
+HH     HH  AAAAA  PP    PP  PP    PP    YY  YY        BB    BB     III    RR     RR     TTT     H     H  DD  DD      AAAAA     YY  YY    GGG        rrr rrr 00   000    tt   00   000 s          
+HHHHHHHHH AA   AA PPPPPPP   PPPPPPP      YYYY         BBBBBBB      III    RRRRRRRR      TTT     HHHHHHH  DD   DD    AA   AA     YYYY      G         rr   rr 00   000    tt   00   000  sssss     
+HH     HH AAAAAAA PP        PP           YYYY         BB    BB     III    RR  RR        TTT     H     H  DD   DD   AAAAAAA     YYYY      GGGG       rr       00   000   tt   00   000       s    
+HH     HH AA   AA PP        PP            YYYY         BBBBBBB    IIIIIII  RR   RR       TTT     H     H  DDDDDD    AA   AA     YYYY        GGGGGG   rr       000000    tt    000000   sssss      
+
+
+                 
